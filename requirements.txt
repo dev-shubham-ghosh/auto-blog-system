@@ -1,5 +1,6 @@
 requests
 feedparser
 newspaper3k
+lxml[html-clean]
 google-api-python-client
 google-auth-oauthlib
