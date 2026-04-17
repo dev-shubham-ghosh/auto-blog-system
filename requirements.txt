@@ -1,0 +1,5 @@
+requests
+feedparser
+newspaper3k
+google-api-python-client
+google-auth-oauthlib
